@@ -1,0 +1,3 @@
+Merhaba Python
+Bu bir dosya ve
+İçinde de bir kaç satır var

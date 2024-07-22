@@ -1,0 +1,34 @@
+Tekrar merhabalar, madem bugün iletişim günümüz ne zamandır aklımda olan ancak bir türlü detaylandıramadığım konuları sizlerle paylaşmak istiyorum:
+
+1) Bildiğiniz üzere Python ve Web Geliştirme Eğitimini yürütüyorum. Ders kapsamında konulara ilişkin verilen dokümanların oldukça eksik olduğunu daha önce belirtmiştim. Biraz daha detaylandırmak istiyorum. Aşağıda eksik konuları başlıklar halinde bulabilirsiniz. 
+
+- Algoritmalar Ders Notları
+- Nesne Yönelimli Programlama Ders Notları
+- Paralel Programlama ve Ağ Programlama Ders Notları
+- Test Modulü Ders Notları
+- Veri Tabanı Ders Notları
+- Web Geliştirme Ders Notları
+- DJango Ders Notları
+
+Bu ders notlarının sağlanmaması durumunda eğitime devam edeceğimi ancak kendi belirlediğim program çerçevesinde ilerleyeceğimi belirtmek istiyorum. 
+
+2) Sınıftaki klavyelerde program yazarken kullanılan <> gibi karakterler mevcut değil. Öğrencilere zorluk çıkarıyor. İnternet üzerinden kopyala yapıştır yapmak zorunda kalıyorlar. 
+
+3) Diğer bir konu ise sınıflardaki kameralar. Kameraların eğitim kurumlarında yerleştirilebileceği yerlere ve koşullara ilişkin kanun maddeleri ve Resmi Gazetede yayımlanmış kararlar mevcut. Referans olması açısından aşağıdaki dosyada bulabilirsiniz. Dokümanda bahsi geçen konulara ilişkin örnek mahkeme kararları da karar verme sürecinde faydalı olacaktır diye düşünüyorum. 
+
+İyi çalışmalar, kolay gelsin.
+
+Bu konu ile ilgili olarak;
+
+ Şöyle bir plan geliştirdim, ne kadar uygun olur konusu sizlerin takdiri :
+ 
+ Arduino setler ile gerçekleştirebileceğimiz küçük projelerin yanında, 
+ 4 tane servo motor = 280 TL
+ 1 arduino nano = 370 TL
+ 1 arduino nano shield = 50 TL
+ 1 mesafe sensörü = 40 TL
+ 1 led matrix = 70 TL
+ ve 3D Yazıcıdan üzerlerine çocukların adlarının yada robota vermek istedikleri adların yazılabileceği robot parçalarının bastırılması ile 
+ toplamda : 810 tl + flament gideri gibi bir maliyetle çocukları hem arduino konusunda eğitebilir hem de istedikleri gibi programlayabilecekleri birer robot sahibi yapabiliriz. 
+ 
+  Bu giderin velilerden talep edilmesi durumunda üzerine bir miktar ekleme yapılarak kuruma kaynak da yaratılabilir.

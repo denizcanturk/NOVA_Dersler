@@ -1,0 +1,13 @@
+*.pps
+*.odp
+*.zip
+*.odt
+__pychache__/
+Notlar/
+Python web/
+PythonWeb_pdfs/
+Resources/
+.vscode/
+.~*
+tutorial.pdf
+DerslerGenel/
