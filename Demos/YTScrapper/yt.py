@@ -10,7 +10,7 @@ import sys
 vid_id = "SIm2W9TtzR0" #sys.argv[1]
 output_file = "c.csv" #sys.argv[2]
 yt_client = build(
-    "youtube", "v3", developerKey="AIzaSyAy3r355HSSDSkz4QAWUGxRCgq52TTE9NM"
+    "youtube", "v3", developerKey=""
 )
 
 
